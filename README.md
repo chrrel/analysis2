@@ -16,4 +16,4 @@
 
 ## Eigenvalues
 	eigenvalues {{4,1},{2,-1}}
-[Link](https://www.wolframalpha.com/input/?i=eigenvalues+{{4%2C1}%2C{2%2C-1}}]
+[Link](https://www.wolframalpha.com/input/?i=eigenvalues+{{4%2C1}%2C{2%2C-1}})
