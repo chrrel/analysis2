@@ -17,3 +17,12 @@
 ## Eigenvalues
 	eigenvalues {{4,1},{2,-1}}
 [Link](https://www.wolframalpha.com/input/?i=eigenvalues+{{4%2C1}%2C{2%2C-1}})
+
+## Optimization 
+
+### Constrained optimization
+	maximize x^2y on x^2+y^2=3
+[Link](https://www.wolframalpha.com/input/?i=maximize+x^2y+on+x^2%2By^2%3D3)
+
+	minimize a*b*c*d on a+b+c+d=1
+[Link](https://www.wolframalpha.com/input/?i=minimize+a*b*c*d+on+a%2Bb%2Bc%2Bd%3D1)
