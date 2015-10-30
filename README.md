@@ -29,9 +29,11 @@
 
 ## Double Integrals
 Normal Domain of type I
+
 	int (cos(y/x)) dy dx, x=1 to 3, y=0 to (PI x)/2
 [Link](https://www.wolframalpha.com/input/?i=int+%28cos%28y%2Fx%29%29+dy+dx%2C+x%3D1+to+3%2C+y%3D0+to+%28PI+x%29%2F2)
 
 Normal Domain of type II
+
 	int (e^(x/y)) dx dy, x=0 to y^2, y=0 to 1
 [Link](https://www.wolframalpha.com/input/?i=int+%28e^%28x%2Fy%29%29+dx+dy%2C+x%3D0+to+y^2%2C+y%3D0+to+1)
