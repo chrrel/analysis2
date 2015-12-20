@@ -1,7 +1,8 @@
 # Analysis 2 - Useful commands for Wolfram Alpha 
+This is a collection of useful commands for Wolfram Alpha that helped me during the lecture Analysis 2.
 
 ## Tangent plane
-	tangent plane to  (-2x^2+3y+1) at (1,1)
+	tangent plane to (-2x^2+3y+1) at (1,1)
 [Link](http://www.wolframalpha.com/input/?i=tangent+plane+to++%28-2x^2%2B3y%2B1%29+at+%281%2C1%29)
 
 ## Partial derivative
@@ -28,12 +29,17 @@
 [Link](https://www.wolframalpha.com/input/?i=minimize+a*b*c*d+on+a%2Bb%2Bc%2Bd%3D1)
 
 ## Double Integrals
-Normal Domain of type I
+Cartesian normal Domain of type I
 
 	int (cos(y/x)) dy dx, x=1 to 3, y=0 to (PI x)/2
 [Link](https://www.wolframalpha.com/input/?i=int+%28cos%28y%2Fx%29%29+dy+dx%2C+x%3D1+to+3%2C+y%3D0+to+%28PI+x%29%2F2)
 
-Normal Domain of type II
+Cartesian normal Domain of type II
 
 	int (e^(x/y)) dx dy, x=0 to y^2, y=0 to 1
 [Link](https://www.wolframalpha.com/input/?i=int+%28e^%28x%2Fy%29%29+dx+dy%2C+x%3D0+to+y^2%2C+y%3D0+to+1)
+
+Polar normal domain
+
+	int r dr dphi r=0 to 2(cos phi + sin phi), phi=0 to pi/2
+[Link](https://www.wolframalpha.com/input/?i=int+r+dr+dphi+r%3D0+to+2%28cos+phi+%2B+sin+phi%29%2C+phi%3D0+to+pi%2F2)
